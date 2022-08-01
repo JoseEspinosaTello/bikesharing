@@ -1,0 +1,5 @@
+# Ignore the config.js file.
+
+citibike_updated.csv
+
+201908-citibike-tripdata.csv
