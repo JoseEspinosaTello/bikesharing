@@ -12,17 +12,29 @@ After a visit to New York city and experiencing CityBike Kate and I wanted to re
 
 We first analyzed the total number of rides for the month of August and broke down the rides by user type and gender. There were over 2 million bikes checked out during the month of August with the majority of checkout coming from subscribers on the user end, and males on the gender end. Overall, all user types and genders average about 5 minutes per ride with males checking out the bikes over 70,000 times more than all other genders.  Base on this analysis we can make an early assumption that most bikes are checked out by males subscribed to CitiBike.
 
+Figure 1
 ![userGender](https://github.com/JoseEspinosaTello/bikesharing/blob/main/Resources/images/userGender.png)
 
-The next chart compares the start and stop time throughout the week. The heatmap shows us that the highest usage of bikes takes place between 8 am – 9 am and again from 5pm to 8pm. The heatmap shows us that the highest usage time takes place during peak commuting hours.
+The next chart compares the start and stop time throughout the week. The heat chart shows us that the highest usage of bikes takes place between 8 am – 9 am and again from 5pm to 8pm. The heat chart shows us that the highest usage time takes place during peak commuting hours.
 
+Figure 2
 ![startime](https://github.com/JoseEspinosaTello/bikesharing/blob/main/Resources/images/startime.png)
 
-The same heatmap is then filtered by gender. The heatmap further supports the analysis of the previous heatmap as the highest usage is during peak commuting hours for all genders.
+The same heat chart is then filtered by gender. The heat chart further supports the analysis of the previous heat chart as the highest usage is during peak commuting hours for all genders.
 
+Figure 3
 ![startimeFemale](https://github.com/JoseEspinosaTello/bikesharing/blob/main/Resources/images/genderStart1.png)
 
+Figure 4
 ![startimeMale](https://github.com/JoseEspinosaTello/bikesharing/blob/main/Resources/images/genderStart2.png)
+
+The Final heat chart compares user type with Gender rides by weekdays. This heat chart confirms our assumption from the ride breakdown that most bikes are checked out by males subscribed to CitiBike.
+
+Figure 5
+![userVgender](https://github.com/JoseEspinosaTello/bikesharing/blob/main/Resources/images/userVgender.png)
+
+Figure 6
+![important](https://github.com/JoseEspinosaTello/bikesharing/blob/main/Resources/images/important.png)
 
 
 ## Summary:
