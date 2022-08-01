@@ -34,6 +34,7 @@ Figure 5
 ![userVgender](https://github.com/JoseEspinosaTello/bikesharing/blob/main/Resources/images/userVgender.png)
 
 Our final figure provides important ride data for our analusis. This figure shows that the majority of CitiBike's rides start and end in the Manhattan area. We also have charts showing the average peak hours in August and average trip duration by age. The average peak hours are once again dominated by peak commute hours further supporting figures 2-4. Additionally the average time per year shows us that in the past most older users were dominant, however there has been a quick increase in younger users.
+
 Figure 6
 ![important](https://github.com/JoseEspinosaTello/bikesharing/blob/main/Resources/images/important.png)
 
