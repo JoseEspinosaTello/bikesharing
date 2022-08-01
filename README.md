@@ -9,4 +9,7 @@ https://public.tableau.com/app/profile/jose.espinosa.tello/viz/NYCCitiBikeAnalys
 After a visit to New York city and experiencing CityBike Kate and I wanted to research the possibility of opening a similar bake-sharing business in Des Moines, Iowa. Using Tableau, we developed a data analytics story that will help visualize the CityBike August 2019 numbers for our possible investor. Our goal is to show our interested investor the CityBike statistics and determine if opening a bike-sharing business is a possibility in Des Moines.
 
 ## Results:
+
+![userGender](https://github.com/JoseEspinosaTello/bikesharing/blob/main/Resources/images/userGender.png)
+
 ## Summary:
