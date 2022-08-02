@@ -41,3 +41,5 @@ Figure 6
 
 ## Summary:
 
+![DurationMap](https://github.com/JoseEspinosaTello/bikesharing/blob/main/Resources/images/MapDuration.png)
+
