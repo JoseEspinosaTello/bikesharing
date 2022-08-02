@@ -41,5 +41,15 @@ Figure 6
 
 ## Summary:
 
+Overall, the statistics show that most users of CitiBike NYC are local subscribers using the bikes to commute during peak traffic hours. To further analyze the user situation, we created two new charts the will help breakdown the user situation even further.
+
+Trip Duration By Start Station: The heatmap was developed to show which start locations have totaled the most trip minutes. This map can help us determine if the longest trip times have been logged near tourist locations.
+
+Trip Duration by User: This bubble map was developed to help determine which start stations are dominated by which type of user. Once again this can help us determine if non-subscribers dominate the bike stations near tourist locations.
+
 ![DurationMap](https://github.com/JoseEspinosaTello/bikesharing/blob/main/Resources/images/MapDuration.png)
+
+The Trip duration by Start Station shows us that some of the bike stations that have logged the most time are located near Central Park. This would support use by non-subscribed tourists. Additionally, bike stations near major bridges have also logged huge amounts of time. This helps support the theory that the large majority of users are local commuters that use the bikes once they arrive on Manhattan Island. The Trip Duration by User map shows that local subscribers dominate all bike stations. However, non-subscribers have huge totals near Central Park and major bridge locations as well. This map solidifies that the majority of users are local subscribers as they have logged the most time at all stations, however, tourist have also logged major hours at popular tourist location and bridges.
+
+After analysis of all maps the conclusion can be made that the majority of CitiBike NYC users are local subscribers. This is a great starting point for a bike-sharing business in Des Moines, as our investor will like knowing that a steady local cashflow will always be present. However, it is possible that New York is a special situation, and further analysis is needed to determine if there is a large number of commuters in Des Moines. New York is a city built on public transportation; therefore, their commuter numbers would be higher than most cities. The deciding factor will be how Des Moines compares to New York from a tourist standpoint. New York is also one of the top cities to visit in America, can Des Moines generate the same amount of tourist revenue? In order to make a final decision our team will need to analyze the commuter and tourist situation in Des Moines.
 
