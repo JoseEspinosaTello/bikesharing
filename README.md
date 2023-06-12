@@ -1,6 +1,6 @@
 # BikeSharing
 
-## [link to dashboard]
+## Dashboard
 
 https://public.tableau.com/app/profile/jose.espinosa.tello/viz/NYCCitiBikeAnalysis_16593372473350/NYCCitiBikeAnalysis?publish=yes
 
