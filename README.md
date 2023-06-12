@@ -1,4 +1,4 @@
-# bikesharing
+# BikeSharing
 
 ## [link to dashboard]
 
